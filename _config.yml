@@ -1,16 +1,16 @@
 # Site settings
-title:          "2d3"
-description:    "비전공자이지만 개발이 하고 싶다"
-baseurl:        "/blog"
+title:          KEDT
+description:    "비전공라도 개발자가 되고 싶다"
+baseurl:        "/home"
 url:            "https://2d3k.github.io"
 
 # Google Analytics
-# google_analytics: UA—XXXXXXXX-X
+google_analytics: UA—XXXXXXXX-X
 
 # Author
-author:		
+author:
   name:         Kim Eunjin
-  url:          https://github.com/2d3k
+  url:          https://2d3k.github.io
   email:        as13337@gmail.com
 
 # Build settings
@@ -38,4 +38,4 @@ paginate:       5
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
-disqus:         2D3
+disqus:         Eunjin
