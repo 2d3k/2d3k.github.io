@@ -1,0 +1,20 @@
+current directory: C:/Users/32150944/Desktop/MyBlog/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 -r ./siteconf20220919-11112-e9ka1t.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/32150944/Desktop/MyBlog/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+bash.exe: warning: could not find /tmp, please create!
+
+current directory: C:/Users/32150944/Desktop/MyBlog/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+generating fastfilereaderext-x64-mingw-ucrt.def
+bash.exe: warning: could not find /tmp, please create!
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: C:/Users/32150944/Desktop/MyBlog/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+bash.exe: warning: could not find /tmp, please create!
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20220919-11112-exryxe
