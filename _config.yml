@@ -5,7 +5,7 @@ baseurl:        "/blog"
 url:            "https://2d3.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+# google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:		
