@@ -1,5 +1,5 @@
 .header {
-  background: $header-background;
+  background: rgba(#ffffff, .15);
   a {
     font-weight: map-get($base, font-weight);
     text-decoration: none !important;
@@ -15,7 +15,7 @@
 
 .header--dark {
   @extend .text--dark;
-  background: rgba(#000, .15);
+  background: rgba(#f0c330, .15);
   .navigation__item--active {
     &::after {
       @include split-line(bottom, 4px, $text-color-theme-dark);
@@ -25,7 +25,7 @@
 
 .header--light {
   @extend .text--light;
-  background: rgba(#fff, .15);
+  background: rgba(#ffffff, .15);
   .navigation__item--active {
     &::after {
       @include split-line(bottom, 4px, $text-color-theme-light);
