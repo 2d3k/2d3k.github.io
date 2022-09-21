@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : "2D3"
   url       : "https://2d3k.github.io"
-  avatar    : # path or url of avatar image (square)
+  avatar    : assets/images/space.jpg # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : "as13337@gmail.com"
   github    : "2d3k" # "user_name" the last part of your profile url, e.g. https://github.com/user_name
@@ -159,7 +159,7 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
+  provider: google # false (default), "google", "custom"
 
   ## Google Analytics
   google:
