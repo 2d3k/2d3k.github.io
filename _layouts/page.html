@@ -137,7 +137,8 @@ layout: base
               {%- endif -%}
             {%- else -%}
               {%- if _article_header_align == 'center' -%}
-                <div class="hero hero--center overlay" style="{{ _header_style }}">
+                <div class="hero hero--center overlay random_BG"">
+                  <script>{%- include scripts/customJS/randomBgImg.js -%}</script>
               {%- else -%}
                 <div class="hero overlay" style="{{ _header_style }}">
               {%- endif -%}

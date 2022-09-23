@@ -21,7 +21,7 @@ highlight_theme: "tomorrow-night-eighties" # "default" (default), "tomorrow", "t
 url     : "https://2d3k.github.io"
 # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : "2D3"
+title   : "return Success;"
 description: > # 사이트 상세정보 (이름에 마우스 놔두면 나옴)
   비전공자라도 개발자가 되고 싶다!
 
@@ -202,7 +202,7 @@ defaults:
       aside:
         toc: true
       show_edit_on_github: false
-      show_subscribe: true
+      show_subscribe: false
       pageview: true
       key: anything
       mode: immersive
