@@ -108,7 +108,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: "gitalk" # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: "disqus" # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -117,6 +117,7 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
+    enable      : false
     clientID    : 5084b477264bda52dd0e # GitHub Application Client ID
     clientSecret: 5d97e2949332ed997e4d16c5acaf56ba7db95b09 # GitHub Application Client Secret
     repository  : 2d3k.github.io    # GitHub repo
