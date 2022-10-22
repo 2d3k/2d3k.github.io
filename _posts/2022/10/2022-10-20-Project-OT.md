@@ -1,5 +1,5 @@
 ---
-title: [개요] PRE 프로젝트 개요
+title: "[개요] PRE 프로젝트 개요"
 tags: Pre-Project
 ---
 
